@@ -1,5 +1,5 @@
-### Olá! eu sou o Daniel Ferreira 
-🌱 Estudando javascript
+### Hello! I'm Daniel Ferreira 
+🌱 studying javascript
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=DanielFerreiraas&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
