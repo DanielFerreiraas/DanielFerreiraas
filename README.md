@@ -29,6 +29,6 @@
  <a href="https://discord.gg/qWPvqbA9AX" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:daniel.ferreirass.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     
-    ![Snake animation](https://github.com/DanielFerreiraas/DanielFerreiraas/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+   [tutorial](https://github.com/DanielFerreiraas/DanielFerreiraas/blob/master/readme.md#deploy-on-your-own-vercel-instance)
   
 </div>
