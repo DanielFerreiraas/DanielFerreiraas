@@ -1,4 +1,4 @@
-### Hello! I'm Daniel Ferreira 
+### 👋Hello!, I'm Daniel Ferreira 
 🧑‍💻 studying Typescript </br>
 💻 studying node.js   </br>
 ☢️ studying React.js  </br>
