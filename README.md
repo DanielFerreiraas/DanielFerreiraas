@@ -1,7 +1,7 @@
 ### Hello! I'm Daniel Ferreira 
-🧑‍💻 studying Typescript ##
-💻 studying node.js ##
-☢️ studying React.js ##
+🧑‍💻 studying Typescript </br>
+💻 studying node.js   </br>
+☢️ studying React.js  </br>
 🎲 studying PostgreSQL and MongoDB
 
 <p align="left">
