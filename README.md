@@ -5,8 +5,8 @@
 🎲 studying PostgreSQL and MongoDB </br>
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=DanielFerreiraas&show_icons=true&theme=vision-friendly-dracula" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFerreiraas&layout=compact&theme=vision-friendly-dracula" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=DanielFerreiraas&show_icons=true&theme=dracula" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFerreiraas&layout=compact&theme=dracula" alt="maykbrito's most languages"/>
 </p>
 <div style="display: inline_block"><br>
   <img align="center" alt="Dan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
