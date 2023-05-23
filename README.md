@@ -1,8 +1,8 @@
 ### ✌️Hello!, I'm Daniel Ferreira 
-🧑‍💻 studying Typescript </br>
-💻 studying node.js   </br>
-☢️ studying React.js  </br>
-🎲 studying PostgreSQL and MongoDB </br>
+🧑‍💻 studying Typescript... </br>
+💻 studying node.js...   </br>
+☢️ studying React.js...  </br>
+🎲 studying PostgreSQL and MongoDB... </br>
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=DanielFerreiraas&show_icons=true&theme=dracula" alt="maykbrito's stats"/>
