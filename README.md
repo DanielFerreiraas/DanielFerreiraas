@@ -1,6 +1,6 @@
 ### ✌️Hello!, I'm Daniel Ferreira 
 
-🏛️ Análise e desenvolvimento de sistemas </br>
+🏛️ analysis and systems development </br>
 🧑‍💻 studying Typescript </br>
 💻 studying node.js   </br>
 ☢️ studying React.js  </br>
