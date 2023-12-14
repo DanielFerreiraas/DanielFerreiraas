@@ -3,8 +3,9 @@
 🏛️ analysis and systems development </br>
 🧑‍💻 studying MongoDB </br>
 💻 studying Node.js   </br>
+💻 studying Spring Boot   </br>
 ☢️ studying React.js  </br>
-🎲 studying Jest </br> </br>
+🎲 studying JUnit </br> </br>
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=DanielFerreiraas&show_icons=true&theme=dracula" alt="maykbrito's stats"/>
