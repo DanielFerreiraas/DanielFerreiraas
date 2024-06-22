@@ -1,11 +1,11 @@
 ### ✌️Hello!, I'm Daniel Ferreira 
 
 🏛️ analysis and systems development </br>
-🧑‍💻 studying MongoDB </br>
+🧑‍💻 studying Tests </br>
 💻 studying Node.js   </br>
-💻 studying Spring Boot   </br>
+💻 studying PostgreSQL   </br>
 ☢️ studying React.js  </br>
-🎲 studying JUnit </br> </br>
+🎲 studying Jest and Supertest </br> </br>
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=DanielFerreiraas&show_icons=true&theme=dracula" alt="maykbrito's stats"/>
